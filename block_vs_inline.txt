@@ -1,0 +1,14 @@
+
+Block elements
+headings (h1-h6)
+list of (ol-ul-li)
+tables (table - tr)
+containers (div)
+semantic (header-main-section-article-footer-nav)
+video (video)
+
+inline elements
+images (img)
+links(a)
+inside form (input,label,button,select,textarea)
+markup/format (b-strong)
