@@ -1,0 +1,22 @@
+h1{
+    background-color: black;
+    color: cyan;
+}
+h2{
+    background-color: rgb(101, 28, 170);
+    color: white
+}
+h2{
+    text-align: center;
+}
+h2{
+    font-style: italic;
+}
+h3{
+    background-color: lightskyblue;
+    color: blue;
+}
+h3{
+    text-align: right;
+    text-decoration: underline;
+}
