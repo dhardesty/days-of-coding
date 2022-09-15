@@ -1,0 +1,53 @@
+header{
+    display: flex;
+    flex-direction: row-reverse;
+
+}
+
+h1{
+    text-align: center;
+    color: rgb(59, 59, 59);
+}
+#blue{
+    background-color: blue;
+    margin: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.picture{
+    height: 200px;
+    margin: 20px;
+}
+
+#red{
+    background-color: red;
+    margin: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.gif{
+    height: 200px;
+    padding: 20px;
+}
+
+#white{
+    background-color: white;
+    margin: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.white{
+    height: 200px;
+    padding: 20px;
+
+}
+
+footer{
+    text-align: center;
+}
+u{
+    color: aqua;
+}
