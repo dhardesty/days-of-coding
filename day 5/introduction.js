@@ -1,4 +1,4 @@
-/*
+
 numbers 
 strings
 booleans
@@ -17,7 +17,7 @@ let grade;
 let currentStack = null;
 
 firstName = "Alexander";
-*/
+
 
 let result = (4 * 5) - 10 / 2 +( 20 % 3 );
 console.log(result);
