@@ -1,6 +1,56 @@
-#container{
-    border: 1px black;
-    background-color: rgb(0, 0, 0);
-    width: 950px;
-    margin: 0px;
+
+header{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.top-nav {
+    height: 100px;
+    background-color: rgb(25, 140, 168);
+    margin: 0px auto;
+}
+
+h1{
+    margin: 15px;
+    padding-top: 10px;
+}
+
+#User{
+    width: 70px;
+    height: 70px;
+    padding: 60px 30px;
+}
+
+.container{
+    width: 500px;
+    height: 400px;
+    margin-left: 200px;
+    margin-top: 100px;
+    border: 1px solid black;
+}
+
+#Marker{
+    height: 20px;
+    width: 15px;
+    flex: 1px;
+    padding-left: 20px;
+}
+
+.Achievements{
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.gear{
+    margin-top: 20px;
+}
+
+#gear{
+    height: 15px;
+    width: 15px;
+}
+
+u{
+    color: rgb(0, 110, 255);
 }

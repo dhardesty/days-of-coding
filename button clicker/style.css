@@ -1,0 +1,75 @@
+.navbar{
+    background-color: rgb(185, 184, 184);
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+.title{
+    padding-left: 20px;
+}
+
+.searchbar{
+    margin-top: 20px;
+}
+
+.login{
+    height: 30px;
+    width: 100px;
+    background-color: blue;
+    color: white;
+    margin: 20px;
+}
+
+.webpage{
+    display: flex;
+}
+
+.FirstDef{
+    border: 2px solid black;
+    display: flex;
+    margin: 20px;
+}
+
+.NameofDef{
+    text-align: center;
+    padding-left: 10px;
+}
+
+.likes{
+    background-color: yellow;
+    margin-bottom: 10px;
+}
+
+.definiton{
+    margin: 20px;
+    padding-top: 40px;
+}
+
+.definitionbox{
+    border: 2px solid black;
+    margin: 20px;
+    padding-left: 10px;
+    text-align: center;
+    height: 150px; 
+}
+
+.DojonaryDefinition{
+    padding: 10px;
+}
+
+.AddDefinition{
+    background-color: lightgreen;
+}
+
+.SecondDef{
+    border: 2px solid black;
+    display: flex;
+    margin: 20px;
+    width: 475px;
+}
+
+.SecondNameofDef{
+    text-align: center;
+    padding-left: 10px;
+}

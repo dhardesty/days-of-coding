@@ -1,0 +1,115 @@
+
+.menu{
+    display: flex;
+    background-color: black;
+    color: white;
+    list-style: none;
+    padding: 20px;
+    font-size: 30px;
+    justify-content: space-around;
+}
+.profile{
+    padding-left: 300px;
+    padding-right: 100px;
+
+}
+.center{
+    display: flex;
+    flex: 1;
+}
+
+
+.myprofile{
+    padding-left: 30px;
+}
+
+.connections{
+    padding-left: 30px;
+}
+
+.button{
+    background-color: rgb(8, 177, 177);
+    color: white;
+}
+
+
+.container{
+    width: 700px;
+    height: 600px;
+    margin-left: 325px;
+    margin-top: 50px;
+    border: 1px solid black;
+}
+
+.top-nav {
+    height: 150px;
+    background-color: rgb(25, 140, 168);
+}
+
+#User{
+    width: 125px;
+    height: 125px;
+    padding-top: 85px;
+    padding-left: 50px;
+}
+
+h1{
+    font-size: 50px;
+    padding-left: 50px;
+}
+
+#Marker{
+    height: 30px;
+    width: 20px;
+    padding-left: 50px;
+}
+.location{
+    font-size: 30px;
+}
+
+.Achievements{
+    padding-left: 50px;
+    font-size: 25px;
+    list-style: none;
+}
+
+.gear{
+    padding-left: 50px;
+    height: 25px;
+    width: 25px;
+}
+
+u{
+    color: rgb(0, 110, 255);
+    font-size: 25px;
+}
+
+
+.requests{
+    border: 1px solid black;
+    width: 500px;
+    height: 400px;
+    display: inline-block;
+    flex-direction: column;
+    margin-left: 1250px; 
+}
+
+h2{
+    color: white;
+    background-color: grey;
+    margin: 0px auto;
+    width: 500px;
+    height: 100px;
+    justify-content: center;
+    display: flex;
+
+}
+
+.content{
+    border: 1px solid black;
+    float: right;
+}
+
+.Your-connections{
+    border: 1px solid black;
+}
