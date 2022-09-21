@@ -8,6 +8,11 @@
     font-size: 30px;
     justify-content: space-around;
 }
+
+.main{
+    display: flex;
+}
+
 .profile{
     padding-left: 300px;
     padding-right: 100px;
@@ -79,37 +84,130 @@ h1{
     width: 25px;
 }
 
-u{
-    color: rgb(0, 110, 255);
+a{
     font-size: 25px;
 }
 
-
 .requests{
     border: 1px solid black;
+    margin-top: 50px;
+    margin-left: 50px;
     width: 500px;
     height: 400px;
-    display: inline-block;
-    flex-direction: column;
-    margin-left: 1250px; 
 }
 
-h2{
-    color: white;
+.bar{
     background-color: grey;
+    height: 50px;
     margin: 0px auto;
-    width: 500px;
-    height: 100px;
-    justify-content: center;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+}
+
+.names{
     display: flex;
-
 }
 
-.content{
-    border: 1px solid black;
-    float: right;
+#todd{
+    width: 80px;
+    height: 80px;
+    margin: 20px;
 }
 
-.Your-connections{
+#phil{
+    width: 80px;
+    height: 80px;
+    margin: 20px;
+}
+
+.namesforpictures{
+    margin: 20px;
+}
+
+.toddname{
+    padding: 35px 15px;
+}
+
+.choice{
+    display: flex;
+    padding: 40px 50px
+}
+.yes{
+    width: 60px;
+    height: 60px;
+    padding-right: 10px;
+}
+
+.no{
+    width: 60px;
+    height: 60px;
+}
+
+.philchoice{
+    display: flex;
+    padding: 20px 50px
+}
+
+.yes1{
+    width: 60px;
+    height: 60px;
+    padding-right: 10px;
+}
+
+.no1{
+    width: 60px;
+    height: 60px;
+}
+
+.added{
     border: 1px solid black;
+    margin-top: 0px;
+    margin-left: 1080px;
+    width: 500px;
+    height: 600px;
+}
+
+#friends{
+    display: flex;
+}
+
+#adrien{
+    width: 80px;
+    height: 80px;
+    margin: 20px;
+}
+
+#anne{
+    width: 80px;
+    height: 80px;
+    margin: 20px;
+}
+
+#alayne{
+    width: 80px;
+    height: 80px;
+    margin: 20px;
+}
+
+#arry{
+    width: 80px;
+    height: 80px;
+    margin: 20px;
+}
+
+.adrienname{
+    padding-top: 30px;
+}
+
+.annename{
+    padding-top: 75px;
+}
+
+.alayne{
+    padding-top: 75px;
+}
+
+.arry{
+    padding-top: 75px;
 }
