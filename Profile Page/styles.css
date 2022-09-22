@@ -211,3 +211,25 @@ a{
 .arry{
     padding-top: 75px;
 }
+
+.bottom{
+    border: 1px solid black;
+    position: relative;
+    top: -200px;
+    margin-left: 325px;
+    width: 700px;
+    margin-bottom: 200px;
+    height: 200px;
+}
+
+span{
+    background-color: grey;
+    color: white;
+    font-size: 30px;
+    width: 300px;
+    justify-content: center;
+}
+
+p{
+    justify-content: center;
+}
